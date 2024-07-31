@@ -1,1 +1,3 @@
-grafana/grafana-oss
+cppla/serverstatus
+serverstatus_server
+serverstatus
