@@ -1,3 +1,1 @@
-cppla/serverstatus
-serverstatus_server
-serverstatus
+justsong/one-api
